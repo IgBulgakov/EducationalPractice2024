@@ -74,6 +74,12 @@ bash
 git remote add origin https://github.com/your-username/your-repo.git
 git push -u origin master
 
+## Хеши в Git
+
+- Git использует SHA-1 хеши для идентификации объектов.
+- Хеш – это уникальный идентификатор длиной 40 символов, например e9a1d7b9725b2ae30e7b7c4bcb487b166fdaff92.
+- Хеши используются для отслеживания файлов, коммитов, деревьев и других объектов.
+
 ## Полезные Ссылки
 
 - [Официальная документация Git](https://git-scm.com/doc)
