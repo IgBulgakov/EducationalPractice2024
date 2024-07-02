@@ -132,3 +132,4 @@ graph TD;
 
 - [Официальная документация Git](https://git-scm.com/doc)
 - [Руководство по Git на русском](https://githowto.com/ru)
+- [Работаем с Git: первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/)
